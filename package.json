@@ -1,0 +1,26 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "webpack study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luoxiaobu/webpack-demo.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "xiaobu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luoxiaobu/webpack-demo/issues"
+  },
+  "homepage": "https://github.com/luoxiaobu/webpack-demo#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}
